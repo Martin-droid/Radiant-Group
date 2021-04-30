@@ -1,0 +1,59 @@
+body{
+padding:0;
+margin:0;
+font-family: 'Nunito', sans-serif;
+
+}
+
+
+.head{
+    margin-top: 2vh;
+}
+
+.head .navbar{
+    background-color: white;
+}
+
+.head img{
+    height:110px;
+}
+.head button{
+background: #ffb347;
+
+width:200px;
+height:43px;
+border-radius: 5px;
+border:none;
+outline: none;
+}
+
+.head button{
+    color:#fff;
+}
+
+.head button:hover{
+    background:#FFA500;
+}
+
+.head button:active{
+
+    background: #FFA500;
+
+}
+
+.head1 .navbar{
+    background-color: #89CFF0;
+}
+
+.head1 .navbar .form-control {
+    width:200px;
+
+}
+
+.banner{
+    height:100vh;
+    width:100%;
+    position: absolute;
+    left:0;
+    top:0;
+}
